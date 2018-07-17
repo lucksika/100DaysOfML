@@ -5,3 +5,9 @@
 **Today's Progress:** I checked out on "Preventing the Spread of Dengue Fever" project idea. I also setup the environment for this project.
 
 **Thoughts:** This project looks quite challenging. This is my really first project which I start it from the beginning. 
+
+**Day 1: July 17, 2018**
+
+**Today's Progress:** Try to vitualize the data. Finding some relationship or pattern.
+
+**Thoughts:** Not sure about the relationship between features. 
