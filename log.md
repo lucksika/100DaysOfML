@@ -35,3 +35,22 @@
 **Today's Progress:** Try to find the reason why the program cannot saperate and recognize asian girls from the korean girl group. Using 3 models (KNN, SVM, Random Forest) for trainning and predicting the results. The result is more acceptable.
 
 **Thoughts:** The dataset for training model is really important !!!
+
+**Day 6: October 16, 2018**
+
+**Today's Progress:** Try implement the face recognition model with the video
+
+**Thoughts:** The quality of the test video is effect the result.
+
+**Day 7: October 17, 2018**
+
+**Today's Progress:** Refactoring code and debug the accents problems in linux
+
+**Thoughts:** It's a minor problem but took so much time
+
+**Day 8: October 18, 2018**
+
+**Today's Progress:** After recognize the face, I try to track that face in the video
+
+**Thoughts:** I use dlib tracker to track. The result is quite acceptable in such a limited environment. Improving the performance of face recognition is really hard. In my opinion, it has a lot of factors involved such as the light, the angle of the face, the quality of the image, the number of the train image, etc. So I decided to move on to other project but I still don't have an interesting idea right now.
+
