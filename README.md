@@ -1,5 +1,5 @@
 # 100DaysOfML
-I am thaking the #100DaysofMLCode Challenge !!
+I am taking the #100DaysofMLCode Challenge !!
 
 Learning ML stuff at least 1 hour a day !!
 
